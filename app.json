@@ -1,7 +1,7 @@
 {
     "name": "Video Wolves Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/b72180ca259cfbe7747e0.jpg",
+    "logo": "https://telegra.ph/file/487bfd1ffd6521d4f824f.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -47,17 +47,17 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "BANDA2M"
+            "value": "DDSJD"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "BANDA1M"
+            "value": "nnn_e"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "php_7"
+            "value": "oo_ao"
         },
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
