@@ -1,5 +1,5 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "Video Wolves Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/b72180ca259cfbe7747e0.jpg",
     "keywords": [
@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/BANDA1M",
-    "repository": "https://github.com/mostafaaziza/alazizy",
-    "success_url": "https://t.me/hama_refaat",
+    "website": "https://t.me/nnn_e",
+    "repository": "https://github.com/SourceTheRoS/MusicWolves-",
+    "success_url": "https://t.me/o_www",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -62,7 +62,7 @@
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
             "required": true,
-            "value": "mostafa_alazizy..🎶"
+            "value": "Music_Wolves..🎶"
         }
     },
     "addons": [],
