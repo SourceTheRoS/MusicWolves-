@@ -1,4 +1,4 @@
- Copyright (C) 2021 By AmortMusicProject
+# Copyright (C) 2021 By AmortMusicProject
 
 from driver.queues import QUEUE
 from pyrogram import Client, filters
